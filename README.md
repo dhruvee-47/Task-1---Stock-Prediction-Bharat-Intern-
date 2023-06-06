@@ -1,6 +1,6 @@
 # Task 1 - Stock Prediction
 
-![Stock Prediction](https://images.app.goo.gl/a6gV27uzTLkAETUi9)
+![Stock Prediction]([https://images.app.goo.gl/a6gV27uzTLkAETUi9](https://www.freepik.com/free-vector/hand-drawn-stock-market-concept-with-analysts_20058522.htm#query=stock%20exchange&position=2&from_view=keyword&track=ais))
 
 Welcome to the Task 1 - Stock Prediction repository! In this project, we explore the exciting world of stock prediction and aim to develop accurate models to forecast future stock prices. This readme will guide you through the project's objectives, methodology, and key findings.
 
