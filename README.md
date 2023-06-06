@@ -44,8 +44,8 @@ We would like to express our gratitude to the open-source community for their in
 
 For any questions, suggestions, or collaborations, please feel free to reach out to the project maintainer:
 
-- Name: [Your Name]
-- Email: [Your Email]
+- Name: Dhruvee Vadhvana
+- Email: dhruvee2003@gmail.com
 - GitHub: [Your GitHub Profile]
 
 We welcome contributions and look forward to hearing from you!
