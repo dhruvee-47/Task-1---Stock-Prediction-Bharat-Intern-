@@ -46,6 +46,6 @@ For any questions, suggestions, or collaborations, please feel free to reach out
 
 - Name: Dhruvee Vadhvana
 - Email: dhruvee2003@gmail.com
-- GitHub: [Your GitHub Profile]
+- GitHub: https://www.linkedin.com/in/dhruvee-vadhvana-b7aa09241/ 
 
 We welcome contributions and look forward to hearing from you!
